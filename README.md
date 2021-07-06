@@ -6,7 +6,7 @@ This game requires nothing but your browser:
 * no API keys needed
 * no browser plugins
 * no twitch.tv sdk
-* etc
+* just your browser (works best on Chrome)
 
 #installation
 * Open Chrome browser
