@@ -11,7 +11,7 @@ This game requires nothing but your browser:
 #installation
 * Open Chrome browser
 * Make sure the bookmark bar is showing
-*  * thats not the case follow * first
+  * thats not the case follow * first
 *  Create a new bookmark by right clicking on the bookmark bar
 *  Give it a new, something like 'twitch card game'
 *  Copy/Paste the code from https://github.com/vinkcode/twitch-game-bookmarklet/blob/main/twitch-game-bookmarklet.js in to it
