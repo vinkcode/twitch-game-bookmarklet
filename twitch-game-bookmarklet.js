@@ -8,7 +8,8 @@ javascript:void((function(){
         * no twitch.tv sdk
         * etc
         * 
-        * 16/07/2020
+        * By Andre Vink 
+        * v0.1 - 16/07/2020
 /******************************** VINKING ***************************************/
 
 let sentences = [
