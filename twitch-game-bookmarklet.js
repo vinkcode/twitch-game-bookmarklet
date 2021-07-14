@@ -1,6 +1,7 @@
 javascript:void((function(){ 
 
 /******************************** VINKING ***************************************/
+// TEST
 /*  Goal: Build a twitch game without using the API for twitch.tv.
     This game requires nothing but your browser:
         * no API keys needed
